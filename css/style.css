@@ -12,7 +12,7 @@ h3{
 
 @font-face {
     font-family: 'underTitulo';
-    src: url../font/MonsterFriendBack.woff) format("woff");
+    src: url(../font/MonsterFriendBack.woff) format("woff");
     font-style: normal;
     font-weight: normal;
 }
@@ -68,6 +68,7 @@ html, body{
     justify-content: center;   
     padding: 30px;
 }
+
 
 
 
