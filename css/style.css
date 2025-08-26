@@ -12,19 +12,19 @@ h3{
 
 @font-face {
     font-family: 'underTitulo';
-    src: url(/font/MonsterFriendBack.woff) format("woff");
+    src: url(../font/MonsterFriendBack.woff) format("woff");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'underTexto';
-    src: url(/font/PixelOperatorMonoHB8.ttf) format("truetype");
+    src: url(../font/PixelOperatorMonoHB8.ttf) format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'underSubTitulo';
-    src: url(/font/MonsterFriendFore.woff) format("woff");
+    src: url(../font/MonsterFriendFore.woff) format("woff");
     font-style: normal;
     font-weight: normal;
 }
@@ -68,6 +68,7 @@ html, body{
     justify-content: center;   
     padding: 30px;
 }
+
 
 
 
